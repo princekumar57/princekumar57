@@ -18,22 +18,8 @@
 
 <!-- ===================== ABOUT ===================== -->
 
-## 🧑‍💻 About Me
 
-```text
-🎓 B.Tech Computer Science Engineering Student
-📚 Pre-Final Year
-💻 Passionate about Software Development
-🌐 Interested in Web Development & Programming
-🧠 Learning Data Structures & Algorithms
-🤖 Exploring Python & Machine Learning
-🚀 Building projects to turn ideas into real solutions
-
-Yes — this is a much better direction. I’d keep it professional and realistic for a B.Tech pre-final-year student, while adding the streak, profile views, complete tech stack, deployment platforms, projects, tools, and a few useful sections.
-
-For Instagram, I’ve used a placeholder because you haven’t given the exact ID yet.
-
-<div align="center">👋 Hi, I'm Prince Kumar
+ 
 
 💻 B.Tech Computer Science Engineering Student | Pre-Final Year
 
